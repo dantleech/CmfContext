@@ -1,0 +1,16 @@
+{
+    "name": "symfony-cmf/context",
+    "description": "CMF Context Component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Leech",
+            "email": "daniel@dantleech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": { "Symfony\\Cmf\\Component\\Context\\": "src/" }
+    }
+}
